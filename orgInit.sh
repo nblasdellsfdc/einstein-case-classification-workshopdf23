@@ -7,7 +7,7 @@ sfdx force:user:permset:assign --perm-set-name Audit_Fields
 sfdx force:user:permset:assign --perm-set-name EinsteinAgent
 
 #assign AUDIT FIELD AND Einstein Case Classification User permsets TO INTEGRATION USER
-sfdx force:user:permset:assign --perm-set-name Audit_Fields -u integ
+#sfdx force:user:permset:assign --perm-set-name Audit_Fields -u integ
 
 #install Einstein Case Classification Value Analytics
 sfdx force:package:install -p 04tB0000000UQjfIAG --noprompt -w 5
