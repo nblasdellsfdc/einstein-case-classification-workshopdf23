@@ -3,7 +3,7 @@
   "edition": "Enterprise",
   "description": "Hands On with Einstein Case Classification",
   "features": ["EinsteinAnalyticsPlus","EinsteinBuilderFree","AnalyticsAdminPerms","CaseClassification","DevelopmentWave",
-              "EinsteinBuilder","LightningServiceConsole","ServiceCloud","ServiceUser"],
+              "EinsteinBuilder","LightningServiceConsole","ServiceCloud","ServiceUser", "LiveMessage", "LiveAgent", "Chatbot"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
